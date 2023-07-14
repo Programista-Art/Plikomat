@@ -1,0 +1,23 @@
+
+Plikomat został stworzony w środowisku Delphi 10.4
+Pierwsza wersja programu powstała 11 maja 2023r.
+
+Przedstawiam moją aplikację o nazwie "Plikomat", która oferuje szereg funkcjonalności na dzień 29.06.2023. Poniżej znajduje się lista najważniejszych cech i możliwości programu:
+
+Oto niektóre z głównych cech i możliwości tego programu:
+
+   1. 16 konfigurowalnych przycisków: Aplikacja umożliwia przypisanie indywidualnych linków i nazw do każdego przycisku. 
+      Linki mogą prowadzić do różnych typów zasobów, takich jak strony internetowe, pliki PDF, pliki TXT, pliki RTF, pliki ODT, obrazy w formatach JPG i PNG, 
+      pliki wykonywalne (EXE) i wiele innych. Program otwiera niemal wszystkie pliki, z wyjątkiem plików BAT, które aktualnie nie są obsługiwane poprawnie.
+   2. Dwa tryby wyświetlania: a. Tryb "Zawsze na górze": Główne okno aplikacji zawsze pozostaje na wierzchu, niezależnie od otwartych aplikacji systemowych.
+      b. Tryb normalny: Okno aplikacji zachowuje się jak standardowe okno programu.
+   3. Przezroczystość: W ogólnych ustawieniach istnieją dwie opcje dotyczące przezroczystości. Włączenie trybu przezroczystości nadaje głównemu oknu programu wartość 60 na skali 0-255, co oznacza częściową przezroczystość. 
+      Po najechaniu myszką na okno programu, staje się ono nieprzezroczyste, czyli osiąga maksymalną wartość 255.
+   4. Przytwierdzenie do prawej: Ta funkcja pozwala na przypięcie aplikacji do prawego dolnego rogu ekranu, uniemożliwiając przesuwanie jej za pomocą myszki.
+   5. Personalizacja nazw: Użytkownik ma możliwość zmiany nazw kategorii bezpośrednio w zakładce "Nazwy Kategorii". 
+      Można również dokonać zmiany nazw w głównym oknie aplikacji, dwukrotnie klikając na nazwie. Pojawi się okno umożliwiające wprowadzenie nowej nazwy.
+   6. Grupy kategorii: W głównym oknie aplikacji dodano funkcję grupowania kategorii, umożliwiając włączanie i wyłączanie wybranych kategorii w ustawieniach. 
+      Zmiany dokonane w tej sekcji są widoczne natychmiast.
+   7. Funkcja zrzutów ekranu: Aplikacja umożliwia wykonywanie zrzutów ekranu w trzech trybach: a. Wyznaczony obszar roboczy. b. Cały pulpit. c. Aktywne okno.
+
+Wideo https://www.youtube.com/watch?v=w811hiYGc78
